@@ -48,6 +48,7 @@ The following business questions were answered using SQL:
 - Find vehicles priced above £20,000.
 - Calculate the average selling price of all vehicles.
 
+
 ---
 
 ## 💻 SQL Queries Performed
@@ -127,6 +128,10 @@ Future versions of this project will include:
 - Mileage analysis
 - Interactive Power BI dashboard
 - Predictive price modelling using 
+
+---
+
+LINK TO DASHBOARD: https://bmw-drive-analytics.lovable.app/
 
 ---
 
