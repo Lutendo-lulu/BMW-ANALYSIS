@@ -131,10 +131,6 @@ Future versions of this project will include:
 
 ---
 
-LINK TO DASHBOARD: https://bmw-drive-analytics.lovable.app/
-
----
-
 ## 👨‍💻 Author
 
 **Lutendo Lidzebe**
