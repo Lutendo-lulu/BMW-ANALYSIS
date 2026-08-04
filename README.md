@@ -104,6 +104,10 @@ The analysis provided several useful business insights:
 
 ---
 
+
+## DASHBOARD
+images/bmw_dashboard.png
+
 ## 💼 Skills Demonstrated
 
 - SQL
