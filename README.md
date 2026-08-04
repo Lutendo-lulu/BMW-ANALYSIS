@@ -106,7 +106,7 @@ The analysis provided several useful business insights:
 
 
 ## DASHBOARD
-[BMW](images/bmw_dashboard.png) 
+![BMW](images/bmw_dashboard.png) 
 
 ## 💼 Skills Demonstrated
 
